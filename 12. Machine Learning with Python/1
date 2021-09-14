@@ -1,0 +1,29 @@
+a)MACHINE LEARNING - is a subset of Artificial Learning.
+It consists in building a  model or an engine and giving it lots and lots of data (for example thousand pictures)
+The more input data we give it the more accurate our model is going to be.
+
+b)MACHINE LEARNING PROJECT STEPS:
+1. Import the Data usually in CSV (Comma-Separated Values) file
+2. Clean the Data - such as remove duplicate and irrelevant data
+3. Split the Data into 2 segments: Training and Testing Sets
+4. Create a Model - Select an algorithm to analyze the data
+5. Train the Model
+6. Make Predictions- Asking is it a Cat or a Dog
+7. Evaluate and Improve
+
+
+c)POPULAR LIBRARIES FOR MACHINE LEARNING:
+1. NumPy - it provides a multi-dimensional array
+
+2. Pandas - a Data analysis library that provides a concept called "Data Frame" which is a two-dimensional data structure similar to an excel spreadsheet, we have rows and columns, we can select data in a row or column or a range of rows and columns
+
+3. MatPlotLib - a two-dimensional plotting library for creating graphs and plots.
+
+4. Scikit-Learn - which is one of the most popular machine learning libraries provides all these common algorithms like decisions, trees, neural network and so on.
+
+d)ENVIRONMENT FOR MACHINE LEARNING PROJECTS:
+Juptyter
+
+Kaggle website - a place to do Data Scientist project
+
+JUPYTER SHORTCUTS 
